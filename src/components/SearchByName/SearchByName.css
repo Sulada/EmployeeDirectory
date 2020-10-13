@@ -1,0 +1,10 @@
+.searchbox button {
+    border: 1px solid #2b4210;
+    font-family: 'Roboto', sans-serif;
+}
+
+.searchbox button:hover {
+    font-family: 'Roboto', sans-serif;
+    background-color: #b8cf9d;
+    color: #ffffff;
+}

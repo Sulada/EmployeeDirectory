@@ -1,0 +1,9 @@
+.header {
+    font-family: 'Roboto', sans-serif;
+    padding: 80px 0;
+    color: black;
+    background-color:gray;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}

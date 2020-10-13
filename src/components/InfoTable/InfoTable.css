@@ -1,0 +1,18 @@
+.datatable .col {
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+  }
+  
+  .datatable .col .pointer:after {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80%;
+    content: "";
+    margin-right: 18px;
+  }
+  
+  .datatable .col .pointer:hover:after {
+    font-family: 'Roboto', sans-serif;
+    font-size: 90%;
+    content: '\25BC';
+    margin-right: 0;
+  }
